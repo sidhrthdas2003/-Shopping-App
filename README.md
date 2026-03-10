@@ -1,2 +1,2 @@
 # -Shopping-App
-this is digital mart
+this is a digital mart
